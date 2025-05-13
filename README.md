@@ -2,9 +2,10 @@
 
 ```
 ParqueTematicoG1/
-├── index.html          # Página principal con información del equipo
-├── avances.html        # Página de avances del proyecto
-├── proyecto.html       # Página con detalles del proyecto
+├── pages/              # Páginas del sitio
+│   ├── index.html     # Página principal con información del equipo
+│   ├── avances.html   # Página de avances del proyecto
+│   └── proyecto.html  # Página con detalles del proyecto
 ├── css/               # Estilos del sitio
 │   └── styles.css     # Archivo principal de estilos
 ├── images/            # Imágenes del sitio
